@@ -1,0 +1,17 @@
+{
+  "name": "child-replace-with-polyfill",
+  "version": "1.0.0",
+  "description": "childNode.replaceWith polyfill for unsupported browsers. More info: https://developer.mozilla.org/en-US/docs/Web/API/ChildNode/replaceWith",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "replaceWith",
+    "replace",
+    "with",
+    "polyfill"
+  ],
+  "author": "atulanand94@gmail.com",
+  "license": "MIT"
+}
