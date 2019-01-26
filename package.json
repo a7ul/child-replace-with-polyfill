@@ -1,6 +1,6 @@
 {
   "name": "child-replace-with-polyfill",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "childNode.replaceWith polyfill for unsupported browsers. More info: https://developer.mozilla.org/en-US/docs/Web/API/ChildNode/replaceWith",
   "main": "index.js",
   "scripts": {

@@ -17,7 +17,7 @@ npm install --save child-replace-with-polyfill
 # Usage
 
 ```js
-import from 'child-replace-with-polyfill'
+import "child-replace-with-polyfill";
 ```
 
 or
